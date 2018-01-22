@@ -14,7 +14,14 @@
  
  */
 // Answer question 3 below
+var totalMoneyIHaveEarned = 0 // Dollars can be part of dollar which is cents but in this situation there is no cents so don't need to be double.
+totalMoneyIHaveEarned += 10
+totalMoneyIHaveEarned += 20
+totalMoneyIHaveEarned /= 2
+totalMoneyIHaveEarned *= 3
+totalMoneyIHaveEarned -= 3
 
+print("The total money I have earned is 42 dollars")
 /*:
  ## Now share your understanding
  
