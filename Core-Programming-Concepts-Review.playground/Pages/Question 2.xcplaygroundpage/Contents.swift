@@ -18,7 +18,16 @@
  
  */
 // Answer question 2 below
-
+var numberOfCommits = 7
+print("The total number of commits always changes depends on how many times we commit.")
+var numberOfForks = 13
+print("The number of forks also always changes depends on how many times we fork it.")
+let yearCreated = 2018
+print("The year created stays constant because we create the repository only once which means it is made in one specific date and this date is not variable. After then, we commit or fork files on that same repository.")
+let monthCreated = 1
+print("Same reason as year created.")
+let dayCreated = 22
+print("Same reason as year created.")
 /*:
  ## Now share your understanding
  
