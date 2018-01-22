@@ -21,7 +21,20 @@
  
  */
 // Answer question 4 below
-
+var totalNumberOfDiners = 350
+print("The total number of diners always change in every each day. Someday it could be 350 people, someday it could be more, or some day it could be less.")
+var totalQuantityOfsaladBar = 50
+print("The total quantity of saladbar always change in every each day, too. Every day we have different salad bar items so every day the mass of salad bar is different.")
+var totalVolumeOfSoup = 30
+print("Same reason as the total quantity of salad bar. Every day we have different type of soups and the weight would be vary.")
+var totalMassOfMainCourse = 60
+print("Same reason as total volume of soup.")
+var totalMassByPizzaOven = 45
+print("Same reason as total volume of soup.")
+let theDateOfTheMeal = "Monday, January 22, 2018"
+print("Even though total number of diners, total quantity of salad bar, total volume of soup, total mass of main course, or total mass by pizza oven change, the specific date for each day is always constant.")
+let timeFrame = "5:30 PM to 7:00 PM"
+print("No matter how did other terms change, our supper time is always 5:30 pm to 7:00 pm. It never changed.")
 /*:
  ## Now share your understanding
  
