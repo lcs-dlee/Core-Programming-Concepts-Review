@@ -26,7 +26,7 @@ if currentHeartRate>=100 && currentHeartRate<=120{
 } else if currentHeartRate>160 && currentHeartRate<=180{
     print("You are in the Hard zone. Activity in this zone increases maximum performance capacity for shorter sessions.")
 } else if currentHeartRate>180 && currentHeartRate<=200{
-    print("You are in the MAximum zone. Activity in this zone helps fit athletes develop speed")
+    print("You are in the Maximum zone. Activity in this zone helps fit athletes develop speed")
 }
 
 /*:
